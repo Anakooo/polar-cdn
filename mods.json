@@ -1,3 +1,10 @@
 {
-  "mods": []
+  "mods": [
+    {
+      "name": "PolarClient-1.8.9.jar",
+      "downloadURL": "https://github.com/anakooo/polar-cdn/releases/latest/download/PolarClient-1.8.9.jar",
+      "sha1": "REMPLACER_PAR_SHA1_DU_JAR",
+      "size": 0
+    }
+  ]
 }
